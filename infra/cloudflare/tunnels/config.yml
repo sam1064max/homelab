@@ -1,0 +1,8 @@
+tunnel: homelab-edge
+credentials-file: /home/sushant/.cloudflared/0c1196c5-0134-4dff-9da0-4bc1eaa71123.json
+
+ingress:
+  - hostname: edge.sushantdev.com
+    service: http://localhost:8080
+
+  - service: http_status:404
