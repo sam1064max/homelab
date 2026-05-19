@@ -1,0 +1,8 @@
+- Infrastructure:
+    - Edge Node:
+        href: https://dashboard.sushantdev.com
+        description: OCI Edge Node
+
+    - Proxmox:
+        href: https://proxmox.sushantdev.com
+        description: Proxmox VE

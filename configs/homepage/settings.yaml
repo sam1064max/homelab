@@ -1,0 +1,12 @@
+title: Sushant HomeLab
+
+theme: dark
+
+color: slate
+
+headerStyle: clean
+
+layout:
+  Infrastructure:
+    style: row
+    columns: 2
